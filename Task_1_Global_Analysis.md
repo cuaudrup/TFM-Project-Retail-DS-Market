@@ -20,4 +20,4 @@ We created a first dashboard with all the data that allows us to understand the 
   - Sales with $52.32m and the comparison with the previous year of $46.58m (+12.33%).
   - Items sold with 13.8 M, and its comparison with the previous year at 13.09 M (+5.43%).
   - Average sale per item with 3.79 $, and its comparison with the previous year at 3.56 $ (+6.55%).
-  - Sales per day with 143,349 $, and its comparison with the previous year at 127,611 M$ (+12.33%).
+  - Sales per day with $143,349m, and its comparison with the previous year at $127,611m (+12.33%).
