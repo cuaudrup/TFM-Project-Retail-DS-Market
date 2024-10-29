@@ -3,9 +3,11 @@ After conducting the business analysis, we will try to identify groups of produc
 
 To do this, we will cluster by item instead of by ID, as the items show quite similar behavior across stores. We refined the database to retain the most relevant information for each item by creating new variables, such as the minimum, maximum, mean, and median of price, sales, and revenue. Similarly, these measures were also created specifically for weekends and for dates coinciding with special events.
 
-After several iterations and tests, we ran the KMeans model to estimate up to 14 clusters, resulting in the following variation in dispersion:
+After several iterations and tests, we ran the KMeans model to estimate up to 14 clusters, resulting in the following variation in dispersion.
 
-Image elbow curve
+<p align="center">
+    <img src="images/image_16.png" alt="Global Vision" width="800" />
+</p>
 
 After initially analyzing the results for 8 clusters, we observed that the best estimate was achieved with 4 clusters. When visually representing the behavior of price and sales, we identified groups corresponding closely to the behavior of the 4 clusters.
 
@@ -21,10 +23,16 @@ We added an extra column within the clusters to flag an issue mentioned by the c
 | Total Revenue | 97,53 M$ | 32,5 M$ | 30,2 M$ | 67,8 M$ | 3 M$ |
 | Revenue per Day | 51 K$ | 17 K$ | 16 K$ | 36 K$ | 1,61 K$ |
 
+<p align="center">
+    <img src="images/image_17.jpg" alt="Global Vision" width="800" />
+</p>
+
 ## Cluster 0
 Cluster 0 is composed of a large number of items (44.5%), with an average price similar to the mean and a growing trend compared to previous years. There is a 20% increase in weekend sales. All items in this cluster belong to the Supermarket category. This cluster accounts for nearly half of the total revenue.
 
-Images
+<p align="center">
+    <img src="images/image_18.jpg" alt="Global Vision" width="800" />
+</p>
 
 ## CLuster 1
 Cluster 1, in contrast, is composed of 84 items (2.7%) distributed across departments in all categories. It has an average price well below the mean and highly seasonal sales, with virtually no growth over the years. While it follows the trend of higher weekend sales, its main characteristic is high demand in the summer months. Notably, it shows a declining sales trend, which does not impact revenue due to price increases, but between 2010 and 2015, sales volume dropped by approximately 15%.
