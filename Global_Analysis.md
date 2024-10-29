@@ -102,7 +102,7 @@ Applying the Home & Garden category filter, we see that Home & Garden 1 represen
 Within the Supermarket category, Supermarket 3 accounts for 66% of sales, despite the fact that the number of items sold, 6.22 million, fell by 5% last year. On the other hand, the turnover of this department has remained practically the same thanks to an increase in the price of its products of almost 5%. Supermarket 2, which accounts for 22% of sales, has seen a 22% increase in turnover to $7.04 million and an 18% increase in sales, all with a price increase of only 3.5%. Finally, Supermarket 1, representing only 12% of sales, has a 13% increase in turnover and a 10% increase in sales, with only a 2.5% increase in price.
 
  <p align="center">
-    <img src="images/image_10.jpg" alt="Global Vision" width="800" />
+    <img src="images/image_10.png" alt="Global Vision" width="800" />
 </p>
 
 ## Vision by Region and Store
@@ -115,7 +115,9 @@ In order to do the analysis by region and store, we have used two line graphs, o
 
 We can see that New York and Boston maintain this seasonality in the summer when sales increase, but Philadelphia does not. On the other hand, the average price has increased over the years in all regions, but more so in Boston and New York. The days of the week with the highest sales tend to be weekends, with Sunday being the busiest day, followed closely by Saturday.
 
-Image region
+<p align="center">
+    <img src="images/image_26.jpg" alt="Global Vision" width="800" />
+</p>
 
 In terms of analysis by store, we have the following.
 
@@ -127,7 +129,9 @@ In Boston, we found three stores with very similar sales percentages:
 
 The sales trend for these stores is positive, primarily due to Back Bay and an increase in item prices, as the trend in units sold remains relatively constant. In Roxbury, however, while there is a positive sales trend, the trend in units sold is significantly down. This suggests that price increases (+10.6% compared to the previous year) have offset the lower volume of sales.
 
-Image 10
+<p align="center">
+    <img src="images/image_12.jpg" alt="Global Vision" width="800" />
+</p>
 
 In New York, we found four stores with the following sales distribution:
 
@@ -138,7 +142,9 @@ In New York, we found four stores with the following sales distribution:
 
 We observe a less significant but very stable growth trend. However, Harlem experienced a notable drop in sales in 2015.
 
-Image 11
+<p align="center">
+    <img src="images/image_13.jpg" alt="Global Vision" width="800" />
+</p>
 
 Lastly, in Philadelphia, we have three stores with the following sales distribution:
 
@@ -148,7 +154,9 @@ Lastly, in Philadelphia, we have three stores with the following sales distribut
 
 Sales trends are stable and positive in Yorktown and Midtown. However, Queen Village shows a clearly negative trend.
 
-Image 12.
+<p align="center">
+    <img src="images/image_14.jpg" alt="Global Vision" width="800" />
+</p>
 
 ## Items without sales in the last month
 With our refined database and after handling missing values (items with no sales), we exported a list of items not sold in the past 28 days, so the marketing or sales department can review and decide whether to remove them from stock:
