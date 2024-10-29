@@ -59,20 +59,20 @@ Focusing by category in 2015 compared to the previous year:
 - Supermarket accounts for 56% of sales, with an average price of $3.11 (up 5.6% year-on-year), a daily turnover of $76,917 and 9 million items sold.
 
  <p align="center">
-    <img src="images/image_5.jpg" alt="Global Vision" width="800" />
+    <img src="images/image_5.png" alt="Global Vision" width="800" />
 </p>
   
 - Home&Garden represents 30% of sales, with an average price of $4.83 (down 0.55% year-on-year), a daily turnover of 45 k$ and 3.4 million items sold.
 45k$ per day and 3.4 million items sold.
 
  <p align="center">
-    <img src="images/image_6.jpg" alt="Global Vision" width="800" />
+    <img src="images/image_6.png" alt="Global Vision" width="800" />
 </p>
   
 - Accessories, which accounted for a further 14%, is the category with a higher average price of $5.64, but with a lower daily turnover of $21,546, due to the low number of units sold (1.39 million).
 
    <p align="center">
-    <img src="images/image_7.jpg" alt="Global Vision" width="800" />
+    <img src="images/image_7.png" alt="Global Vision" width="800" />
 </p>
 
 ## Vision by Department
@@ -90,13 +90,13 @@ In order to analyse the departments, we filtered them by category and analysed t
 Firstly, within the Accessories category. We have that Accessories 1 represents 94% of sales with a higher number of units sold and with a higher average price. On the other hand, Accessories 2 shows a decrease in sales price compared to the previous year, but a strong increase in the number of items sold (+23.5% compared to the previous year).
 
  <p align="center">
-    <img src="images/image_8.jpg" alt="Global Vision" width="800" />
+    <img src="images/image_8.png" alt="Global Vision" width="800" />
 </p>
 
 Applying the Home & Garden category filter, we see that Home & Garden 1 represents 74.4% of sales. With an average price of $4.55, and a significant sales trend (18% more than the previous year). On the other hand, Home & Garden 2 represents 25.6% of sales with a highly seasonal behaviour within the year, although with a similar average ticket, it has much less items sold.
 
  <p align="center">
-    <img src="images/image_9.jpg" alt="Global Vision" width="800" />
+    <img src="images/image_9.png" alt="Global Vision" width="800" />
 </p>
 
 Within the Supermarket category, Supermarket 3 accounts for 66% of sales, despite the fact that the number of items sold, 6.22 million, fell by 5% last year. On the other hand, the turnover of this department has remained practically the same thanks to an increase in the price of its products of almost 5%. Supermarket 2, which accounts for 22% of sales, has seen a 22% increase in turnover to $7.04 million and an 18% increase in sales, all with a price increase of only 3.5%. Finally, Supermarket 1, representing only 12% of sales, has a 13% increase in turnover and a 10% increase in sales, with only a 2.5% increase in price.
