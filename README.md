@@ -3,5 +3,9 @@ This is my TFM Retail project. In this project, I have done a deep analysis of t
 
 ![logo_DS_Market](https://github.com/cuaudrup/TFM-Project-Retail-DS-Market/blob/main/images/ds_market_logo.jpg)
 
+<div style="text-align: center;">
+    <img src="https://github.com/cuaudrup/TFM-Project-Retail-DS-Market/blob/main/images/ds_market_logo.jpg" alt="Logo DS Market" />
+</div>
+
 
 - **[Leer Memoria del TFM](memory.pdf)**
