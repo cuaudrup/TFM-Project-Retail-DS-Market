@@ -1,4 +1,6 @@
 # Store Supply and API
+**Here you have the notebook with the code used for this section: [Stock](Notebooks/4_Stock.ipynb)**
+
 To carry out store replenishment, we will use the forecasts created with our time series model combined with an EOQ (Economic Order Quantity) model. This approach aims to achieve the best stock adjustment for each product in each store, i.e., for each ID. In the project notebook, all the coding details can be seen. For our stock, we will create the dataframe 'df_stock.'
 
 The EOQ model is a widely used tool for inventory control and store replenishment. This model allows us to optimize both the order size and the safety stock that we should maintain in each of our stores based on each ID. In fact, this model is very useful for handling products with high variability in sales, ranging from items that sell infrequently to those sold regularly.
