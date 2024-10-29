@@ -1,4 +1,6 @@
 # Clustering
+**Here you have the notebook with the code used for this section: [Introduction & Unsold Products](Notebooks/2_Clustering.ipynb)**
+
 After conducting the business analysis, we will try to identify groups of products that behave similarly to more effectively focus our Marketing campaigns according to our clusters.
 
 To do this, we will cluster by item instead of by ID, as the items show quite similar behavior across stores. We refined the database to retain the most relevant information for each item by creating new variables, such as the minimum, maximum, mean, and median of price, sales, and revenue. Similarly, these measures were also created specifically for weekends and for dates coinciding with special events.
