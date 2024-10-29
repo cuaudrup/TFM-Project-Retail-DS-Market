@@ -84,7 +84,7 @@ We can see that New York and Boston maintain this seasonality in the summer when
 
 Image region
 
-In terms of analysis by branch, we have the following.
+In terms of analysis by store, we have the following.
 
 In Boston, we found three stores with very similar sales percentages:
 
@@ -118,7 +118,6 @@ Sales trends are stable and positive in Yorktown and Midtown. However, Queen Vil
 Image 12.
 
 ## Items without sales in the last month.
-
 With our refined database and after handling missing values (items with no sales), we exported a list of items not sold in the past 28 days, so the marketing or sales department can review and decide whether to remove them from stock:
 
 'ACCESORIES_1_335', 'ACCESORIES_2_110', 'HOME_&GARDEN_1_209', 'HOME&GARDEN_1_366', 'HOME&GARDEN_2_158', 'HOME&GARDEN_2_202', 'HOME&GARDEN_2_210', 'HOME&GARDEN_2_456', 'HOME&_GARDEN_2_502', 'SUPERMARKET_1_004', 'SUPERMARKET_1_043', 'SUPERMARKET_1_120', 'SUPERMARKET_1_126', 'SUPERMARKET_2_292', 'SUPERMARKET_3_002', 'SUPERMARKET_3_008', 'SUPERMARKET_3_073', 'SUPERMARKET_3_077', 'SUPERMARKET_3_205', 'SUPERMARKET_3_210', 'SUPERMARKET_3_271', 'SUPERMARKET_3_419', 'SUPERMARKET_3_441', 'SUPERMARKET_3_444', 'SUPERMARKET_3_647'.
