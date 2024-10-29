@@ -1,4 +1,6 @@
 # Global Analysis
+*Here you have the notebook with the code used for this section: [Introduction & Unsold Products](Notebooks/1_Introduction_%26_Unsold_Products.ipynb)*
+
 Initially we received three tables with separate information:
 - File 1. daily_calendar_with_events.csv. This table in .csv format contains date and time information.
 - File 2. item_prices. This table in .csv format contains information about the prices of each product in each store for each week of the year.
