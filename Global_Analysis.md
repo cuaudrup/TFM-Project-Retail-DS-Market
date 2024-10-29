@@ -12,7 +12,7 @@ Initially we received three tables with separate information:
 The first step is to create a single table with the sales, prices and date information. Finally, we are left with a table of 58327370 recorded in a single table.
 
 <p align="center">
-    <img src="images/image_2.jpg" alt="Whole Dataframe" width="800" />
+    <img src="images/image_2.jpg" alt="Whole Dataframe" width="1000" />
 </p>
 
 
