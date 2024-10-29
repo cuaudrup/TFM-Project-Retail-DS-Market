@@ -1,4 +1,6 @@
 # Time Series
+**Here you have the notebook with the code used for this section: [Time Series](Notebooks/3_Time_Series.ipynb)**
+
 For the Time Series model, several options were considered. Models like ARIMA and PROPHET were trained, but we ultimately determined that the best option for a multivariate dataframe was to make the prediction with an XGBOOST model.
 
 This XGBOOST model was also trained in different ways. Initially, we opted for daily training, but we observed that it was much slower and required a large amount of RAM and memory, and the predictions were less accurate on a weekly basis.
