@@ -13,7 +13,9 @@ Here is the sales evolution, including a 4-week forecast.
 
 Our time series model provides 4-week forecasts, but by repeating this process three times, we were able to extend our predictions to 12 weeks and graph the results. However, the main focus is on the first 4 weeks, as this is the part of the model that is trained with fully real data. Ideally, we would iterate our model each time we have new real data, rather than using data that matches our model's previous predictions.
 
-Image.
+<p align="center">
+    <img src="images/image_24.jpg" alt="Global Vision" width="600" />
+</p>
 
 Looking at this more detailed global graph for 2016, we can observe our first 4 weeks of predictions, which are marked in the designated area on the graph. They are characterized by an increase in sales compared to our starting point, which is week 17. This rise is around 5.5% during the first two weeks, then decreases by 1.5% over the following two weeks.
 
