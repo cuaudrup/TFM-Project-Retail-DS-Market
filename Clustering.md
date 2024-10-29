@@ -21,3 +21,28 @@ We added an extra column within the clusters to flag an issue mentioned by the c
 | Total Revenue | 97,53 M$ | 32,5 M$ | 30,2 M$ | 67,8 M$ | 3 M$ |
 | Revenue per Day | 51 K$ | 17 K$ | 16 K$ | 36 K$ | 1,61 K$ |
 
+## Cluster 0.
+Cluster 0 is composed of a large number of items (44.5%), with an average price similar to the mean and a growing trend compared to previous years. There is a 20% increase in weekend sales. All items in this cluster belong to the Supermarket category. This cluster accounts for nearly half of the total revenue.
+
+Images
+
+## CLuster 1.
+Cluster 1, in contrast, is composed of 84 items (2.7%) distributed across departments in all categories. It has an average price well below the mean and highly seasonal sales, with virtually no growth over the years. While it follows the trend of higher weekend sales, its main characteristic is high demand in the summer months. Notably, it shows a declining sales trend, which does not impact revenue due to price increases, but between 2010 and 2015, sales volume dropped by approximately 15%.
+
+Images
+
+## Cluster 2.
+Cluster 2 is also composed of a limited number of items (18.5%), with an average price well above the mean. These items belong exclusively to the Accessories category, with the Accessories 1 department accounting for 95% of the items. Sales and units sold have increased steadily since 2012, and in 2015, sales doubled compared to 2012.
+
+
+Images
+
+## CLuster 3.
+Cluster 3, lastly, also consists of a large group of items (34%), but exclusively from the Home & Garden category. These items have an average price above the mean with a growing trend compared to previous years. In fact, despite selling 25% less than Cluster 1, it generates twice the profit of that cluster.
+
+Images.
+
+## Items deleted.
+These items have shown a clear decline in sales over recent weeks. They are characterized by accounting for less than 2% of profits over all these years and having sold only 0.7 million units.
+
+Images.
