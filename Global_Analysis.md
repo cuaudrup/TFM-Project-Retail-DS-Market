@@ -6,7 +6,7 @@ Initially we received three tables with separate information:
 
 The first step is to create a single table with the sales, prices and date information. Finally, we are left with a table of 58327370 recorded in a single table.
 
-![Whole Dataframe]([images/image1.jpg](https://github.com/cuaudrup/TFM-Project-Retail-DS-Market/blob/main/images/image_1.png))
+![Whole Dataframe](images/image_1.png)
 
 The next step is to export this data as a .csv file and load it into PowerBI to begin our data analysis and business understanding. Dividing our analysis into the following parts:
 - GLobal vision.
