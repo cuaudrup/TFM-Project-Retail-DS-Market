@@ -6,7 +6,7 @@ To do this, we will cluster by item instead of by ID, as the items show quite si
 After several iterations and tests, we ran the KMeans model to estimate up to 14 clusters, resulting in the following variation in dispersion.
 
 <p align="center">
-    <img src="images/image_16.png" alt="Global Vision" width="800" />
+    <img src="images/image_16.png" alt="Global Vision" width="600" />
 </p>
 
 After initially analyzing the results for 8 clusters, we observed that the best estimate was achieved with 4 clusters. When visually representing the behavior of price and sales, we identified groups corresponding closely to the behavior of the 4 clusters.
@@ -37,20 +37,29 @@ Cluster 0 is composed of a large number of items (44.5%), with an average price 
 ## CLuster 1
 Cluster 1, in contrast, is composed of 84 items (2.7%) distributed across departments in all categories. It has an average price well below the mean and highly seasonal sales, with virtually no growth over the years. While it follows the trend of higher weekend sales, its main characteristic is high demand in the summer months. Notably, it shows a declining sales trend, which does not impact revenue due to price increases, but between 2010 and 2015, sales volume dropped by approximately 15%.
 
-Images
+<p align="center">
+    <img src="images/image_19.jpg" alt="Global Vision" width="800" />
+</p>
 
 ## Cluster 2
 Cluster 2 is also composed of a limited number of items (18.5%), with an average price well above the mean. These items belong exclusively to the Accessories category, with the Accessories 1 department accounting for 95% of the items. Sales and units sold have increased steadily since 2012, and in 2015, sales doubled compared to 2012.
 
 
-Images
+<p align="center">
+    <img src="images/image_20.jpg" alt="Global Vision" width="800" />
+</p>
 
 ## CLuster 3
 Cluster 3, lastly, also consists of a large group of items (34%), but exclusively from the Home & Garden category. These items have an average price above the mean with a growing trend compared to previous years. In fact, despite selling 25% less than Cluster 1, it generates twice the profit of that cluster.
 
-Images.
+<p align="center">
+    <img src="images/image_21.jpg" alt="Global Vision" width="800" />
+</p>
 
 ## Items deleted
 These items have shown a clear decline in sales over recent weeks. They are characterized by accounting for less than 2% of profits over all these years and having sold only 0.7 million units.
 
+<p align="center">
+    <img src="images/image_22.jpg" alt="Global Vision" width="800" />
+</p>
 Images.
