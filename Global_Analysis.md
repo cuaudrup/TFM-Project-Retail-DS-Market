@@ -1,4 +1,4 @@
-# Global Analysis.
+# Global Analysis
 Initially we received three tables with separate information:
 - File 1. daily_calendar_with_events.csv. This table in .csv format contains date and time information.
 - File 2. item_prices. This table in .csv format contains information about the prices of each product in each store for each week of the year.
@@ -14,7 +14,7 @@ The next step is to export this data as a .csv file and load it into PowerBI to 
 - Vision by region and store.
 - Items without sales in the last month.
 
-## Global Vision:
+## Global Vision
 We created a first dashboard with all the data that allows us to understand the business data from a global perspective. For the first KPIs regarding the company's sales trends, we took 2015 as a benchmark and compared it to the previous year to gain the following insights.
 - As KPIs we have different insights:
   - Sales with $52.32m and the comparison with the previous year of $46.58m (+12.33%).
@@ -34,7 +34,7 @@ Image 3.
 
 Next, we zoom in on the sales performance of each category.
 
-## Vision by Category.
+## Vision by Category
 After dumping the data into the PBI and filtering by category, we see that there are 3 different categories
 1. Accessories.
 2. Home & Garden.
@@ -51,7 +51,7 @@ Focusing by category in 2015 compared to the previous year:
 - Accessories, which accounted for a further 14%, is the category with a higher average price of $5.64, but with a lower daily turnover of $21,546, due to the low number of units sold (1.39 million).
   Image 6
 
-## Vision by Department.
+## Vision by Department
 The three product categories are further subdivided into departments. So we have seven departments.
 1. Accessories 1.
 2. Accessories 2.
@@ -72,7 +72,7 @@ Image 8
 Within the Supermarket category, Supermarket 3 accounts for 66% of sales, despite the fact that the number of items sold, 6.22 million, fell by 5% last year. On the other hand, the turnover of this department has remained practically the same thanks to an increase in the price of its products of almost 5%. Supermarket 2, which accounts for 22% of sales, has seen a 22% increase in turnover to $7.04 million and an 18% increase in sales, all with a price increase of only 3.5%. Finally, Supermarket 1, representing only 12% of sales, has a 13% increase in turnover and a 10% increase in sales, with only a 2.5% increase in price.
 Image 9.
 
-## Vision by Region and Store.
+## Vision by Region and Store
 In this section, we see the data broken down by the following 3 regions:
 - New York: represents 44.9% of revenue.
 - Boston: represents 28.7% of revenue.
@@ -117,7 +117,7 @@ Sales trends are stable and positive in Yorktown and Midtown. However, Queen Vil
 
 Image 12.
 
-## Items without sales in the last month.
+## Items without sales in the last month
 With our refined database and after handling missing values (items with no sales), we exported a list of items not sold in the past 28 days, so the marketing or sales department can review and decide whether to remove them from stock:
 
 'ACCESORIES_1_335', 'ACCESORIES_2_110', 'HOME_&GARDEN_1_209', 'HOME&GARDEN_1_366', 'HOME&GARDEN_2_158', 'HOME&GARDEN_2_202', 'HOME&GARDEN_2_210', 'HOME&GARDEN_2_456', 'HOME&_GARDEN_2_502', 'SUPERMARKET_1_004', 'SUPERMARKET_1_043', 'SUPERMARKET_1_120', 'SUPERMARKET_1_126', 'SUPERMARKET_2_292', 'SUPERMARKET_3_002', 'SUPERMARKET_3_008', 'SUPERMARKET_3_073', 'SUPERMARKET_3_077', 'SUPERMARKET_3_205', 'SUPERMARKET_3_210', 'SUPERMARKET_3_271', 'SUPERMARKET_3_419', 'SUPERMARKET_3_441', 'SUPERMARKET_3_444', 'SUPERMARKET_3_647'.
