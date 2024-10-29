@@ -17,6 +17,10 @@ Our time series model provides 4-week forecasts, but by repeating this process t
     <img src="images/image_24.jpg" alt="Global Vision" width="600" />
 </p>
 
+<p align="center">
+    <img src="images/image_24.jpg" alt="Global Vision" width="600" />
+</p>
+
 Looking at this more detailed global graph for 2016, we can observe our first 4 weeks of predictions, which are marked in the designated area on the graph. They are characterized by an increase in sales compared to our starting point, which is week 17. This rise is around 5.5% during the first two weeks, then decreases by 1.5% over the following two weeks.
 
 Thus, we can conclude that at the end of our 4-week predictions, there is an approximate 3% increase in total revenue. In the subsequent weeks, we also anticipate exponential growth, which aligns with trends from previous years, as summer is the season with expected peak sales.
