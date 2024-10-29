@@ -5,7 +5,7 @@ Initially we received three tables with separate information:
 - File 3. item_sales.csv. This table contains information on the number of products sold per day in each store.
 
 <p align="center">
-    <img src="images/image_1.png" alt="Tablas" width="600" />
+    <img src="images/image_1.png" alt="Tablas" width="800" />
 </p>
 
 
