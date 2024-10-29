@@ -5,7 +5,8 @@ Initially we received three tables with separate information:
 - File 3. item_sales.csv. This table contains information on the number of products sold per day in each store.
 
 The first step is to create a single table with the sales, prices and date information. Finally, we are left with a table of 58327370 recorded in a single table.
-Image 1.
+
+![Whole Dataframe]([images/image1.jpg](https://github.com/cuaudrup/TFM-Project-Retail-DS-Market/blob/main/images/image_1.png))
 
 The next step is to export this data as a .csv file and load it into PowerBI to begin our data analysis and business understanding. Dividing our analysis into the following parts:
 - GLobal vision.
