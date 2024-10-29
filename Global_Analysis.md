@@ -4,7 +4,10 @@ Initially we received three tables with separate information:
 - File 2. item_prices. This table in .csv format contains information about the prices of each product in each store for each week of the year.
 - File 3. item_sales.csv. This table contains information on the number of products sold per day in each store.
 
-![Tables](images/image_1.png){: style="display: block; margin-left: auto; margin-right: auto; width: 400px;"}
+<p align="center">
+    <img src="images/image_1.png" alt="Tablas" width="400" />
+</p>
+
 
 The first step is to create a single table with the sales, prices and date information. Finally, we are left with a table of 58327370 recorded in a single table.
 
