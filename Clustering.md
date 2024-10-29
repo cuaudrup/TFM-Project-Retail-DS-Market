@@ -23,8 +23,9 @@ We added an extra column within the clusters to flag an issue mentioned by the c
 | Total Revenue | 97,53 M$ | 32,5 M$ | 30,2 M$ | 67,8 M$ | 3 M$ |
 | Revenue per Day | 51 K$ | 17 K$ | 16 K$ | 36 K$ | 1,61 K$ |
 
+
 <p align="center">
-    <img src="images/image_17.jpg" alt="Global Vision" width="600" />
+    <img src="images/image_38.jpg" alt="Global Vision" width="800" />
 </p>
 
 ## Cluster 0
