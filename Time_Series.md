@@ -8,7 +8,7 @@ Finally, we decided to train the model with weekly sales data to achieve more re
 Here is the sales evolution, including a 4-week forecast.
 
 <p align="center">
-    <img src="images/image_23.jpg" alt="Global Vision" width="800" />
+    <img src="images/image_23.jpg" alt="Global Vision" width="600" />
 </p>
 
 Our time series model provides 4-week forecasts, but by repeating this process three times, we were able to extend our predictions to 12 weeks and graph the results. However, the main focus is on the first 4 weeks, as this is the part of the model that is trained with fully real data. Ideally, we would iterate our model each time we have new real data, rather than using data that matches our model's previous predictions.
