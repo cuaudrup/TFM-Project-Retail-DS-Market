@@ -17,7 +17,7 @@ The first step is to create a single table with the sales, prices and date infor
 
 
 The next step is to export this data as a .csv file and load it into PowerBI to begin our data analysis and business understanding. Dividing our analysis into the following parts:
-- GLobal vision.
+- Global vision.
 - Vision by category.
 - Vision by department.
 - Vision by region and store.
