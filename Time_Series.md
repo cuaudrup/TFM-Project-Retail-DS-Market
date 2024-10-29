@@ -32,18 +32,36 @@ Regarding our forecasts for the Boston region, we see that during the first 2 we
 
 As for the stores, Roxbury (BOS_2) stands out as the store finishing the 4 weeks with the highest increase in both sales, at 6.8%, and revenue, at 7.34%.
 
-Images
+<p align="center">
+    <img src="images/image_26.jpg" alt="Global Vision" width="600" />
+</p>
+
+<p align="center">
+    <img src="images/image_27.jpg" alt="Global Vision" width="600" />
+</p>
 
 ## Sales forecast in New York
 In the New York region, the sales increase is expected to be the lowest, with only a nearly 2% rise in the first two weeks, reducing to about 1% by the end of the 4-week period. Notably, the only category expected to see a significant increase in sales is Accessories, with nearly an 8% growth in revenue.
 
 Brooklyn (NYC_4) is the store anticipated to have the best sales performance during these weeks, though not exceeding 2%. However, looking towards summer, our longer-term forecasts indicate a clear upward trend for this store.
 
-Images
+<p align="center">
+    <img src="images/image_28.jpg" alt="Global Vision" width="600" />
+</p>
+
+<p align="center">
+    <img src="images/image_29.jpg" alt="Global Vision" width="600" />
+</p>
 
 ## Sales forecast in Philadelphia
 Philadelphia is the region expected to see the highest sales increase compared to week 17, with nearly a 10% rise in revenue. This is driven by a 14% increase in revenue in the Accessories category, marking the largest growth of any category in any region over these 4 weeks. Additionally, there is a 10% increase in Supermarket, mainly fueled by an exponential 28% growth in the Supermarket 2 department, which, as in Boston, represents the highest growth within a department. Thus, focusing the marketing campaigns we mentioned earlier on these products would be beneficial.
 
 Among the standout stores, Yorktown (PHI_2) shows a 24% increase in revenue and nearly a 9.5% rise in items sold. Queen Village (PHI_3) also performs well, with a 20.5% revenue increase and almost a 13% increase in items sold.
 
-Images.
+<p align="center">
+    <img src="images/image_30.jpg" alt="Global Vision" width="600" />
+</p>
+
+<p align="center">
+    <img src="images/image_31.jpg" alt="Global Vision" width="600" />
+</p>
