@@ -1,5 +1,7 @@
 # TFM-Project-Retail-DS-Market
-This is my TFM Retail project. In this project, I have done a deep analysis of the business with a long database of almost 5 years of sales to extract important insights. For this project, I used two Machine Learning models, one of Clustering for product classification and the other of Time Series to predict sales. Additionally, I have created an API that allows us to query our company's stock quickly and efficiently.
+DS Market is a US supermarket chain with 10 stores in 3 different states selling a variety of products including food, accessories, clothing, home and garden supplies.
+
+In this project, I have done a deep analysis of the business with a long database of almost 5 years of sales to extract important insights. For this project, I used two Machine Learning models, one of Clustering for product classification and the other of Time Series to predict sales. Additionally, I have created an API that allows us to query our company's stock quickly and efficiently.
 
 In any retail business, the key objective is to optimise the product offering. By leveraging business understanding and these machine learning models, we can achieve significant improvements in business performance.
 
