@@ -31,7 +31,9 @@ We created a first dashboard with all the data that allows us to understand the 
   - Average sale per item with 3.79 $, and its comparison with the previous year at 3.56 $ (+6.55%).
   - Sales per day with $143,349m, and its comparison with the previous year at $127,611m (+12.33%).
  
-  Image 2
+  <p align="center">
+    <img src="images/image_3.jpg" alt="Global Vision" width="800" />
+</p>
 
 These KPIs are valuable for the company to monitor and understand future developments. The data shows a positive trend, as illustrated in several graphs.
 
