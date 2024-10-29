@@ -61,5 +61,5 @@ Below are some examples of the home screen and the queries that the API allows.
 For deploying this API, we used Flask, a Python framework that facilitates the creation of web applications, and Docker, which packages the application into a container that can then be easily deployed on any server supporting Docker, thus eliminating the need to manually configure each target server. All of this was set up while working in a VS Code environment.
 
 Here is the folder with the documents to create the API:
-[Ir a carpeta2](API/)
+- [API](API/)
 
