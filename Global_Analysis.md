@@ -116,7 +116,7 @@ In order to do the analysis by region and store, we have used two line graphs, o
 We can see that New York and Boston maintain this seasonality in the summer when sales increase, but Philadelphia does not. On the other hand, the average price has increased over the years in all regions, but more so in Boston and New York. The days of the week with the highest sales tend to be weekends, with Sunday being the busiest day, followed closely by Saturday.
 
 <p align="center">
-    <img src="images/image_26.jpg" alt="Global Vision" width="800" />
+    <img src="images/image_36.jpg" alt="Global Vision" width="800" />
 </p>
 
 In terms of analysis by store, we have the following.
