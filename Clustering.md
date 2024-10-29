@@ -1,5 +1,5 @@
 # Clustering
-**Here you have the notebook with the code used for this section: [Introduction & Unsold Products](Notebooks/2_Clustering.ipynb)**
+**Here you have the notebook with the code used for this section: [Clustering](Notebooks/2_Clustering.ipynb)**
 
 After conducting the business analysis, we will try to identify groups of products that behave similarly to more effectively focus our Marketing campaigns according to our clusters.
 
