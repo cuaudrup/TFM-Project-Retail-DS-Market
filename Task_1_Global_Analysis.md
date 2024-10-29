@@ -12,6 +12,7 @@ The next step is to export this data as a .csv file and load it into PowerBI to 
 - Vision by category.
 - Vision by department.
 - Vision by region and store.
+- Items without sales in the last month.
 
 ## Global Vision:
 We created a first dashboard with all the data that allows us to understand the business data from a global perspective. For the first KPIs regarding the company's sales trends, we took 2015 as a benchmark and compared it to the previous year to gain the following insights.
