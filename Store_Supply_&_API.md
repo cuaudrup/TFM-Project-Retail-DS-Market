@@ -46,6 +46,16 @@ At this stage, the API can return two types of responses, depending on whether t
 
 Below are some examples of the home screen and the queries that the API allows.
 
-Images
+<p align="center">
+    <img src="images/image_29.png" alt="Global Vision" width="600" />
+</p>
+
+<p align="center">
+    <img src="images/image_30.png" alt="Global Vision" width="600" />
+</p>
+
+<p align="center">
+    <img src="images/image_31.png" alt="Global Vision" width="600" />
+</p>
 
 For deploying this API, we used Flask, a Python framework that facilitates the creation of web applications, and Docker, which packages the application into a container that can then be easily deployed on any server supporting Docker, thus eliminating the need to manually configure each target server. All of this was set up while working in a VS Code environment.
