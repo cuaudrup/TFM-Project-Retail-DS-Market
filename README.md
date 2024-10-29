@@ -9,4 +9,7 @@ In any retail business, the key objective is to optimise the product offering. B
 
 To follow the project, you can do this in the following order:
 
-- **[1.Global Analysis](Global_Analysis.md)**
+- **[1. Global Analysis.](Global_Analysis.md)**
+- **[2. Clustering.](Clustering.md)**
+- **[1. Time Series.](Time_Series.md)**
+- **[1. Store Supply and API](Store_Supply_&_API.md)**
