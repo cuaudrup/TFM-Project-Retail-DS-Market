@@ -6,7 +6,7 @@ To do this, we will cluster by item instead of by ID, as the items show quite si
 After several iterations and tests, we ran the KMeans model to estimate up to 14 clusters, resulting in the following variation in dispersion.
 
 <p align="center">
-    <img src="images/image_16.png" alt="Global Vision" width="600" />
+    <img src="images/image_16.png" alt="Global Vision" width="400" />
 </p>
 
 After initially analyzing the results for 8 clusters, we observed that the best estimate was achieved with 4 clusters. When visually representing the behavior of price and sales, we identified groups corresponding closely to the behavior of the 4 clusters.
@@ -62,4 +62,3 @@ These items have shown a clear decline in sales over recent weeks. They are char
 <p align="center">
     <img src="images/image_22.jpg" alt="Global Vision" width="800" />
 </p>
-Images.
