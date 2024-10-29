@@ -41,7 +41,9 @@ A line graph is used to track the evolution of sales, items sold, and average pr
 
 Additionally, we have represented these same metrics in bar charts, grouped by quarter, which further confirm these insights.
 
-Image 3.
+ <p align="center">
+    <img src="images/image_4.jpg" alt="Global Vision" width="800" />
+</p>
 
 Next, we zoom in on the sales performance of each category.
 
