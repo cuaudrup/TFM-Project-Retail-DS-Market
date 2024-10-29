@@ -13,7 +13,7 @@ Thus, we created a list of items for each cluster and proceeded to analyze the s
 
 We added an extra column within the clusters to flag an issue mentioned by the company, which corresponds to products with low sales. This column is labeled as 'Delete' and includes those items that we mentioned earlier for removal. Comparison of KPIs for each cluster:
 
-|  |  Cluster 0   | Cluster 1   | Cluster 2   | Cluster 3  | Column 5   |
+|  |  Cluster 0   | Cluster 1   | Cluster 2   | Cluster 3  | Delete  |
 |----------|------------|------------|------------|------------|------------|
 | Nº Items | 1346 | 84 | 561 | 1033 | 25 |
 | Mean Price | 3,78 $ | 1,89 $ | 7,4 $ | 6,81 $ | 4,49 $ |
