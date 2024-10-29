@@ -13,11 +13,11 @@ Thus, we created a list of items for each cluster and proceeded to analyze the s
 
 We added an extra column within the clusters to flag an issue mentioned by the company, which corresponds to products with low sales. This column is labeled as 'Delete' and includes those items that we mentioned earlier for removal. Comparison of KPIs for each cluster:
 
-|  |  Cluster 0   | Column 2   | Column 3   | Column 4   | Column 5   |
+|  |  Cluster 0   | Cluster 1   | Cluster 2   | Cluster 3  | Column 5   |
 |----------|------------|------------|------------|------------|------------|
-| Nº Items | 1346 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 | Row 1 Col 5 |
-| Mean Price | 3,78 $ | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 | Row 2 Col 5 |
-| Items Sales | 28,25 M | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 | Row 3 Col 5 |
-| Total Revenue | 97,53 M$ | Row 4 Col 2 | Row 4 Col 3 | Row 4 Col 4 | Row 4 Col 5 |
-| Revenue per Day | 51 K$ | Row 5 Col 2 | Row 5 Col 3 | Row 5 Col 4 | Row 5 Col 5 |
+| Nº Items | 1346 | 84 | 561 | 1033 | 25 |
+| Mean Price | 3,78 $ | 1,89 $ | 7,4 $ | 6,81 $ | 4,49 $ |
+| Items Sales | 28,25 M | 17,34 M | 5,97 M | 13,44 M | 0,7 M |
+| Total Revenue | 97,53 M$ | 32,5 M$ | 30,2 M$ | 67,8 M$ | 3 M$ |
+| Revenue per Day | 51 K$ | 17 K$ | 16 K$ | 36 K$ | 1,61 K$ |
 
